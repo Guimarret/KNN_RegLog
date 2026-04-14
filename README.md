@@ -2,6 +2,10 @@
 
 ## Fatec Jundiaí
 
+- *Guilherme Esteves Marret*
+- *Thiago Macedo Vaz*
+- *Ana Luíza Costa de Oliveira*
+
 # 1.Escolha do Dataset
 
 Dataset - Credit Card Fraud Detection: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
